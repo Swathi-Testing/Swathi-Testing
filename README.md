@@ -27,8 +27,3 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://buymeacoffee.com/jpaefra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## GitHub Stats
-
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=SwathiEdiginti&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
- -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiEdiginti&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
